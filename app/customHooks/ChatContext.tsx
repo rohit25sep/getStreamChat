@@ -38,7 +38,7 @@ const ChatContextProvider = ({children}: {children: React.ReactNode}) => {
       // connect to global channel
       // Screen user
       // const globalChannel = client.channel('messaging', 'global', {
-      //   name: 'Abhishek Garg',
+      //   name: 'JobOne',
       // });
 
       // await globalChannel.watch();
